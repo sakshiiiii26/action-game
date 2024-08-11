@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aqua;
+}
+.gamecontainer{
+    background-image: url(background3.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 100wh;
+}
+.doremon{
+    background-image: url(player.png);
+    background-size: cover;
+    height: 285px;
+    width: 200px;
+    position: absolute;
+    bottom:139px;
+    left: 170px;
+}
+.target{
+    background-image: url(target-removebg-preview.png);
+    background-size: cover;
+    height: 100px;
+    width: 200px;
+    position: absolute;
+    bottom:139px;
+    left: 700px;
+}
