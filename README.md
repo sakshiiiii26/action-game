@@ -18,7 +18,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/sakshiiiii26/action-game.git
+    git clone [https://github.com/sakshiiiii26/action-game.git]
     ```
 2. Navigate to the project directory:
     ```bash
@@ -62,4 +62,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 2656sakshisharma@gmail.com
 
-Project Link: 
+Project Link: https://github.com/sakshiiiii26/action-game
